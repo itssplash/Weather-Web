@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-Web/static/css/main.5cae10e4.chunk.css",
+    "main.js": "/Weather-Web/static/js/main.c85b6d79.chunk.js",
+    "main.js.map": "/Weather-Web/static/js/main.c85b6d79.chunk.js.map",
+    "runtime-main.js": "/Weather-Web/static/js/runtime-main.b71b9a1e.js",
+    "runtime-main.js.map": "/Weather-Web/static/js/runtime-main.b71b9a1e.js.map",
+    "static/js/2.07144284.chunk.js": "/Weather-Web/static/js/2.07144284.chunk.js",
+    "static/js/2.07144284.chunk.js.map": "/Weather-Web/static/js/2.07144284.chunk.js.map",
+    "index.html": "/Weather-Web/index.html",
+    "precache-manifest.5a14c5c394b725925ebbef374434019b.js": "/Weather-Web/precache-manifest.5a14c5c394b725925ebbef374434019b.js",
+    "service-worker.js": "/Weather-Web/service-worker.js",
+    "static/css/main.5cae10e4.chunk.css.map": "/Weather-Web/static/css/main.5cae10e4.chunk.css.map",
+    "static/js/2.07144284.chunk.js.LICENSE": "/Weather-Web/static/js/2.07144284.chunk.js.LICENSE",
+    "static/media/index.css": "/Weather-Web/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71b9a1e.js",
+    "static/js/2.07144284.chunk.js",
+    "static/css/main.5cae10e4.chunk.css",
+    "static/js/main.c85b6d79.chunk.js"
+  ]
+}
